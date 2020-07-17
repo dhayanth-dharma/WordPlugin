@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "name": "Général",
+    "documents": [
+      {
+        "id": 64,
+        "name": "Imported Doc",
+        "ref": "PMG\t0 0 000 01",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 1, "name": "Général", "position": 0 },
+        "versions": [],
+        "competences": []
+      },
+      {
+        "id": 65,
+        "name": "Imported Doc",
+        "ref": "PMG\t0 0 000 01",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 1, "name": "Général", "position": 0 },
+        "versions": [],
+        "competences": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Expression de besoin",
+    "documents": [
+      {
+        "id": 66,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 2, "name": "Expression de besoin", "position": 1 },
+        "versions": [],
+        "competences": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spécifications générales",
+    "documents": [
+      {
+        "id": 67,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": []
+      },
+      {
+        "id": 68,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": []
+      },
+      {
+        "id": 69,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": [
+          {
+            "id": 11,
+            "identifier": "1.2",
+            "label": "Coordination gÃ©nÃ©rale du projet",
+            "selected": false
+          },
+          {
+            "id": 3473,
+            "identifier": "1.2",
+            "label": "Coordination gÃ©nÃ©rale du projet",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": []
+      },
+      {
+        "id": 71,
+        "name": "Imported Doc",
+        "ref": "PAQ\t0 0 000 02",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": []
+      },
+      {
+        "id": 72,
+        "name": "Imported Doc",
+        "ref": "PCQ\t0 0 000 04",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": { "id": 3, "name": "Spécifications générales", "position": 2 },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Spécifications techniques",
+    "documents": [
+      {
+        "id": 73,
+        "name": "Imported Doc",
+        "ref": "PCQ\t0 0 000 04",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Imported Doc",
+        "ref": "PQL\t0 0 000 05",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Imported Doc",
+        "ref": "PQL\t0 0 000 05",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Imported Doc",
+        "ref": "PQL\t0 0 000 05",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Imported Doc",
+        "ref": "PQL\t0 0 000 05",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Imported Doc",
+        "ref": "PQL\t0 0 000 05",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Imported Doc",
+        "ref": "PGD\t0 0 000 06",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 79,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          },
+          {
+            "id": 3541,
+            "identifier": "2.3",
+            "label": "travaux de voie",
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Imported Doc",
+        "ref": "PGD\t0 0 000 06",
+        "format": "WORD",
+        "type": "ART",
+        "owner": {
+          "id": 1,
+          "displayName": "Gilles Morin",
+          "email": "gilles.morin@engie.com"
+        },
+        "phase": {
+          "id": 4,
+          "name": "Spécifications techniques",
+          "position": 3
+        },
+        "versions": [],
+        "competences": [
+          {
+            "id": 54,
+            "identifier": "2.1",
+            "label": "infrastructures",
+            "selected": false
+          },
+          {
+            "id": 3516,
+            "identifier": "2.1",
+            "label": "infrastructures",
+            "selected": false
+          }
+        ]
+      }
+    ]
+  },
+  { "id": 5, "name": "Conception Générale", "documents": [] },
+  { "id": 6, "name": "Conception Détaillée", "documents": [] },
+  { "id": 7, "name": "Doc et plan d'éxecution", "documents": [] },
+  { "id": 8, "name": "Réalisation", "documents": [] },
+  { "id": 9, "name": "Tests unitaires", "documents": [] },
+  { "id": 10, "name": "Tests d'intégration", "documents": [] },
+  { "id": 11, "name": "Validation usine", "documents": [] },
+  { "id": 12, "name": "Validation site", "documents": [] },
+  { "id": 13, "name": "Qualification système", "documents": [] },
+  { "id": 14, "name": "Exploitation", "documents": [] },
+  { "id": 15, "name": "Maintenance", "documents": [] }
+]

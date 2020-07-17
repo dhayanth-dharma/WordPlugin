@@ -1,0 +1,23 @@
+[33mcommit 8f8b247604c69af272b3618168b569753ddaf437[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: dhayanth-dharma <dhayanthdharma@gmail.com>
+Date:   Tue Jun 2 18:12:45 2020 +0200
+
+    feat/WordAddInV2: additional word-api demo functions were added
+
+[33mcommit 6aba0f29c1ebae5d41ada3437dbd9c2c976c5ad0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: dhayanth-dharma <dhayanthdharma@gmail.com>
+Date:   Fri May 29 18:13:38 2020 +0200
+
+    feat/wordPluginV2: added demo word-api functions
+
+[33mcommit 16f4fe60fe5f839f2db40c328bfae6b0559d1cd5[m
+Author: dhayanth-dharma <dhayanthdharma@gmail.com>
+Date:   Fri May 29 10:45:46 2020 +0200
+
+    feat/wordPluginV2: functionality improvements on first mock-up
+
+[33mcommit ea75a6b29d6987b21cdea49389f7f22efac4ccc4[m
+Author: dhayanth-dharma <dhayanthdharma@gmail.com>
+Date:   Tue May 26 17:29:32 2020 +0200
+
+    Initialisation

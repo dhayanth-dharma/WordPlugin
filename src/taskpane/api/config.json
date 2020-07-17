@@ -1,0 +1,4 @@
+{
+  "REACT_API_CLIENT_ID": "https://devapi.aitenders.com/v1.0", 
+  "REACT_APP_KEY" : "ws://devapi.aitenders.com/v1.0"
+}
